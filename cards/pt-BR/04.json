@@ -21837,7 +21837,7 @@
       "schema_version": 2,
       "id": "pt-04-1150",
       "locale": "pt-BR",
-      "sentence": "Em e-mail à colega, Lia escreve: “A cliente virá com nós dois à vistoria.”",
+      "sentence": "Em e-mail à colega, Lia escreve: “A cliente virá com nós duas à vistoria.”",
       "cloze": "com nós",
       "answer": "com nós",
       "accepted_answers": [],
@@ -21848,7 +21848,7 @@
     "language_specific": {
       "variety": "pt-BR",
       "mode": "production",
-      "grammar": "Target: The following numeral dois licenses uncontracted com nós; unmodified nós normally combines with com as conosco."
+      "grammar": "Target: The following numeral duas licenses uncontracted com nós; unmodified nós normally combines with com as conosco."
     }
   },
   {
